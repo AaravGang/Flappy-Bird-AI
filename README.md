@@ -1,6 +1,6 @@
 # Flappy Bird AI
 
-## Teach the computer to play Flappy Bird using a ML technique called Neuro Evolution
+## computer learns to play Flappy Bird using a ML technique called Neuro Evolution
 
 Download the code and run the `main.py` file.
 Use the `u` key to speed up training, and `d` to slow down training, so you can see better.
