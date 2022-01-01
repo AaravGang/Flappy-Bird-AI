@@ -1,4 +1,5 @@
 # Flappy Bird AI
+<img width="684" alt="Screen Shot 2022-01-01 at 11 35 28 PM" src="https://user-images.githubusercontent.com/86181184/147857228-ddddeb93-9b39-4acf-835a-0d405dca50ae.png">
 
 ## computer learns to play Flappy Bird using a ML technique called Neuro Evolution
 
